@@ -6,7 +6,7 @@ Analysis code for:
 
 ORPheoS (Oldenburg Test Battery for Remote Digital Phenotyping of Post-Stroke Cognition) is a smartphone-based cognitive item bank for repeated assessment after stroke. This repository contains the R script that reproduces every analysis, table and figure reported in the manuscript and its Supplementary Information from the curated baseline data set (234 stroke patients, 280 controls).
 
-Archived version: [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+Archived version: [![DOI](https://zenodo.org/badge/1425570016.svg)](https://doi.org/10.5281/zenodo.23474622)
 
 ## Contents
 
